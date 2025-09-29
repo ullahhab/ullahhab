@@ -100,12 +100,13 @@ Projects focused on **embedded systems, IoT, and firmware development**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats(only public) alot more in private ones
 
 ![Hamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullahhab&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ullahhab&theme=radical)
 
 ---
+
 
 ## 💬 Get in Touch
 I’m always open to **collaboration** and **learning opportunities**.  
