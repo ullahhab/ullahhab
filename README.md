@@ -49,6 +49,9 @@ Personal portfolio project built in JavaScript to showcase my work.
 [![Machine-learning](https://img.shields.io/badge/-Machine--learning-red?style=for-the-badge)](https://github.com/ullahhab/Machine-learning)  
 Collection of ML projects and experiments implemented in Jupyter notebooks.
 
+[![AIML](https://img.shields.io/badge/-AIML-green?style=for-the-badge)](https://github.com/ullahhab/AIML)  
+✨ Check out my **fun machine learning projects**—from experiments to practical AI tools.
+
 [![core](https://img.shields.io/badge/-CORE-lightgrey?style=for-the-badge)](https://github.com/ullahhab/core)  
 Fork of the Common Open Research Emulator (CORE) for network simulation.
 
@@ -71,13 +74,11 @@ An AI-powered assistant that automates Scrum processes to **save teams time and 
 - Summarizes daily standups and updates stakeholders.  
 - Helps track story progress and manage blockers.  
 - Assists in generating planning and deployment-related tasks automatically.  
-- Focused on **improving workflow without direct access to sensitive code repositories**.  
 - **Ask me about this project!**
 
 ### AIML Employee Skill Mapper
 An AI/ML tool that analyzes employee performance data to **categorize skills and track contributions**.  
 - Helps management identify expertise for promotions or team allocation.  
-- Includes a search to find employees based on project experience.  
 - **Ask me about this project!**
 
 ### AIML Stock Linear Regression
@@ -89,7 +90,7 @@ A machine learning project focused on **predicting stock prices** using linear r
 Mobile apps to **assist with homework and learning**.  
 - Recipe app helps organize and manage cooking projects.  
 - Math app explains basic concepts and guides users through problem-solving.  
-- Apps will include language support and are planned for release on **Play Store and App Store later this year**.  
+- Planned release on **Play Store and App Store later this year**.  
 - **Ask me about this project!**
 
 ### Embedded / C & C++ Projects
@@ -100,13 +101,13 @@ Projects focused on **embedded systems, IoT, and firmware development**.
 
 ---
 
-## 📊 GitHub Stats(only public) alot more in private ones
+## 📊 GitHub Stats (only public)  
+*(I have a lot more private projects too!)*  
 
 ![Hamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullahhab&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ullahhab&theme=radical)
 
 ---
-
 
 ## 💬 Get in Touch
 I’m always open to **collaboration** and **learning opportunities**.  
